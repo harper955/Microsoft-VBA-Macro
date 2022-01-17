@@ -1,0 +1,30 @@
+#Tricks and Techniques in Excel
+
+1. Date formatting in Excel
+
+Format code	            Output
+d	                      9
+dd	                    09
+ddd	                    Mon
+dddd	                  Monday
+m	                      1
+mm	                    01
+mmm	                    Jan
+mmmm	                  January
+mmmmm	                  J
+yy	                    12
+yyyy	                  2012
+mm/dd/yyyy	            01/09/2012
+m/d/y	                  1/9/12
+ddd, mmm d             	Mon, Jan 9
+mm/dd/yyyy h:mm AM/PM	  01/09/2012 5:15 PM
+dd/mm/yyyy hh:mm:ss	    09/01/2012 17:15:00
+
+https://exceljet.net/formula/convert-date-to-text
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Rearrange horizontal axis in Excel plot 
+   Change 1) Vertical axis crosses to "Maximum axis value"
+          2) Tick "Values in reverse order"
+https://exceljet.net/lessons/how-to-reverse-a-chart-axis
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
